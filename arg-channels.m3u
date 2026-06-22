@@ -24,11 +24,9 @@ http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" ,TN (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 
-# to be checked
-#EXTINF:-1 tvg-id="MagicKids.ar@SD",Magic Kids (486p)
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="MasFM.ar@SD",Más FM 95.9 (720p)
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-id="MetroTV.ar@SD",Metro TV (720p)
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+# funcionan pero en duda
+##EXTINF:-1 tvg-id="MasFM.ar@SD",Más FM 95.9 (720p)
+#https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+##EXTINF:-1 tvg-id="MetroTV.ar@SD",Metro TV (720p)
+#https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
