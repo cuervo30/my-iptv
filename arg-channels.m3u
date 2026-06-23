@@ -23,13 +23,17 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" ,TN (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="A24.ar",A24 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-# funcionan pero en duda
+# maybe to be added
 ##EXTINF:-1 tvg-id="MasFM.ar@SD",Más FM 95.9 (720p)
 #https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 ##EXTINF:-1 tvg-id="MetroTV.ar@SD",Metro TV (720p)
 #https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+# not working outside AR
+#EXTINF:-1 tvg-id="A24.ar",A24 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
 
