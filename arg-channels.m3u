@@ -31,9 +31,8 @@ http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 #https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 # not working outside AR
-#EXTINF:-1 tvg-id="A24.ar",A24 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="A24" tvg-name="A24 Argentina",A24 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 
