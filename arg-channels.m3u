@@ -7,21 +7,21 @@ http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 http://179.60.51.134:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" ,Telefe (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="Canal.America.TV.Argentina.ar" tvg-name="Canal America TV Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,America TV (1080p)
+#EXTINF:-1 group-title="news" tvg-id="Canal.America.TV.Argentina.ar" tvg-name="Canal America TV Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,America TV (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" ,La Nacion + (576p)
+#EXTINF:-1 group-title="news" tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" ,La Nacion + (576p)
 http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" ,Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" ,Canal 10 Cordoba
+#EXTINF:-1 group-title="news" tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" ,Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" ,El Nueve (1080p)
+#EXTINF:-1 group-title="news" tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" ,El Nueve (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" ,TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" ,TyC Sports (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TodoNoticias.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" ,TN (1080p)
+#EXTINF:-1 group-title="news" tvg-id="TodoNoticias.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" ,TN (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 
 # maybe to be added
